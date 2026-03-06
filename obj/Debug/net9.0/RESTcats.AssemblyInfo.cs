@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RESTcats")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef5e3d58debda62019a289117c010db3b53b9e89")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f2e17b1d81742d90dcd70c8b295823c13aa4316")]
 [assembly: System.Reflection.AssemblyProductAttribute("RESTcats")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RESTcats")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
