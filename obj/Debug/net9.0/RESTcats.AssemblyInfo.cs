@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RESTcats")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fcaac4206266e6070117ce3997716bf1fddbe0cc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1f6268e8348c1aa5d6c12312ce6916dc83bd1f3")]
 [assembly: System.Reflection.AssemblyProductAttribute("RESTcats")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RESTcats")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
