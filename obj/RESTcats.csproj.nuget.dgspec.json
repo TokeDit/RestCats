@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\toked\\source\\repos\\RESTcats\\RESTcats\\RESTcats.csproj": {}
+    "C:\\Users\\toked\\source\\repos\\RESTcats\\RestCats\\RESTcats.csproj": {}
   },
   "projects": {
-    "C:\\Users\\toked\\source\\repos\\RESTcats\\RESTcats\\RESTcats.csproj": {
+    "C:\\Users\\toked\\source\\repos\\RESTcats\\RestCats\\RESTcats.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\toked\\source\\repos\\RESTcats\\RESTcats\\RESTcats.csproj",
+        "projectUniqueName": "C:\\Users\\toked\\source\\repos\\RESTcats\\RestCats\\RESTcats.csproj",
         "projectName": "RESTcats",
-        "projectPath": "C:\\Users\\toked\\source\\repos\\RESTcats\\RESTcats\\RESTcats.csproj",
+        "projectPath": "C:\\Users\\toked\\source\\repos\\RESTcats\\RestCats\\RESTcats.csproj",
         "packagesPath": "C:\\Users\\toked\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\toked\\source\\repos\\RESTcats\\RESTcats\\obj\\",
+        "outputPath": "C:\\Users\\toked\\source\\repos\\RESTcats\\RestCats\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
